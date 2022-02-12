@@ -3,4 +3,4 @@ In the Hipparchian, Ptolemaic, and Copernican systems of astronomy, the epicycle
 
 As a part of this lecture, I'll demonstrate the epycycles model with the Manim library (Python library for creating explanatory math videos).
 
-<img src="https://github.com/shlomi-perles/Epicycle-Lecture/blob/main/images/main/epycyclesGif.gif" width="300" height="250" />
+<img src="https://github.com/shlomi-perles/Epicycle-Lecture/blob/main/images/main/epycyclesGif.gif"/>
